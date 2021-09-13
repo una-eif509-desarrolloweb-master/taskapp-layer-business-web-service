@@ -1,6 +1,6 @@
 # REST API
 
-eLearning: https://bit.ly/layer-service
+eLearning: https://bit.ly/layer-service-restapi
 
 ## Overview
 
